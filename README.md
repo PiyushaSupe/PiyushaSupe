@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @PiyushaSupe
-- 👀 I’m interested in Web development and love to learn new technologies 
-- 🌱 I’m currently learning data structures and algorithms and focused on learning fundamentals first
-- 💞️ I’m looking to collaborate and interact and learn a lot of new things and share the things I have learnt
-- 📫 How to reach me: ...
+- 👀 I’m interested in Web development and love to learn
+- 🌱 I’m currently learning UI design
+
 
 <!---
 PiyushaSupe/PiyushaSupe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
