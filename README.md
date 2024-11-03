@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PiyushaSupe
 - 👀 I’m interested in Web development and love to learn
-- 🌱 I’m currently learning UI design
+- 🌱 
 
 
 <!---
