@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PiyushaSupe
-- 👀 I’m interested in Web development and love to learn
+- 👀 I love life and I love to learn new things
 - 🌱 
 
 
