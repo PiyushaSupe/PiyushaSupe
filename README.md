@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PiyushaSupe
 - 👀 I like learning new things
-- 🌱 I am inquisitive by nature and strive for a life full calm , composure and harmony. 
+- 🌱 I am inquisitive by nature and strive for a life of calm , composure and harmony. 
 
 
 
