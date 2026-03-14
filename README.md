@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @PiyushaSupe
-- 👀 I love life and I love to learn new things
-- 🌱
+- 👀 I like learning new things
+- 🌱 I am inquisitive by nature and strive for a life full calm , composure and harmony. 
 
 
-https://www.youtube.com/@PiyushaSupe21
 
 
 <!---
